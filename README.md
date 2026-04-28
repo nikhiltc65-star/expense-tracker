@@ -26,8 +26,7 @@ It helps users manage their daily expenses with real-time balance updates and pe
 
 ##  Screenshot
 
-![App Screenshot](<img width="1920" height="953" alt="Screenshot (379)" src="https://github.com/user-attachments/assets/eb3b5a34-3255-49f8-a983-5807059aaa6d" />
-)
+![App Screenshot](https://github.com/user-attachments/assets/eb3b5a34-3255-49f8-a983-5807059aaa6d)
 
 ![App Screenshot](<img width="1920" height="968" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/09403d9a-1e0a-43d3-9744-0d2e90ec113d" />
 
