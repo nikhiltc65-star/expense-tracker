@@ -3,6 +3,9 @@
 An interactive and user-friendly **Expense Tracker web application** built using HTML, CSS, and JavaScript.
 It helps users manage their daily expenses with real-time balance updates and persistent local storage.
 
+##LIVE PROJECT LINK
+[View Expense Tracker](https://nikhiltc65-star.github.io/expense-tracker/)
+
 ---
 
 ## Features
