@@ -103,8 +103,8 @@ input[type="number"] {
   list-style-type: none;
   padding: 0;
   margin-bottom: 40px;
-  height: 200px; /* Set a fixed height for the list */
-  overflow-y: scroll; /* Add vertical scrollbar */
+  height: 200px; 
+  overflow-y: scroll; 
 }
 
 .list li {
