@@ -45,20 +45,6 @@ expense-tracker/
 │── style.css
 │── script.js
 │── README.md
-```
-
----
-
-##  How to Run
-
-1. Clone the repository
-
-   ```bash
-   git clone https://github.com/your-username/expense-tracker.git
-   ```
-2. Open `index.html` in your browser
-3. Start tracking your expenses
-
 ---
 
 ##  Future Improvements
